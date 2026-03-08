@@ -2,7 +2,7 @@
 - Project name: SpaceShooter
 - Unity version: Unity 2022.3.62f2
 - Active game object:
-  - Name: Machine Gun
+  - Name: BattleFlow
   - Tag: Untagged
-  - Layer: Player
+  - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->
